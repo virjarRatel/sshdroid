@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSHDroid</string>
+    <string name="app_desc">给app私有文件系统提供ssh服务</string>
+    <string name="targetApp">目标app:</string>
+    <string name="targetPort">服务端口:</string>
+    <string name="newProcess">独立进程:</string>
+</resources>
